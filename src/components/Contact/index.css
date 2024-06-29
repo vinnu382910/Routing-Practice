@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.desc-cont {
+  margin-top: 6%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 30px;
+  color: #6d396b;
+}
+
+.home {
+  height: 200px;
+  width: 200px;
+}
